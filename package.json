@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "react-native start",
+    "server": "json-server api.json -p 3333 -d 500",
     "test": "jest",
     "lint": "eslint ."
   },
