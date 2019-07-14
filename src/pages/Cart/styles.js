@@ -115,6 +115,6 @@ export const EmptyContainer = styled.View`
 
 export const EmptyText = styled.Text`
   font-size: 24px;
-  font-weight: border-left;
+  font-weight: bold;
   margin-top: 18px;
 `;

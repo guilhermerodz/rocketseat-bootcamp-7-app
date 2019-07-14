@@ -11,8 +11,8 @@ import colors from './styles/colors';
 const Routes = createAppContainer(
   createStackNavigator(
     {
-      Cart,
       Main,
+      Cart,
     },
     {
       defaultNavigationOptions: navigation => ({
