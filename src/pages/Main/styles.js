@@ -12,16 +12,16 @@ export const Product = styled.View`
   padding: 10px;
   margin: 15px;
   border-radius: 4px;
-  width: 400px;
+  width: 250px;
 `;
 
 export const ProductImage = styled.Image`
-  height: 360px;
-  width: 360px;
+  height: 230px;
+  width: 230px;
 `;
 
 export const ProductTitle = styled.Text`
-  font-size: 25px;
+  font-size: 16px;
 `;
 
 export const ProductFooter = styled.View`
@@ -31,7 +31,7 @@ export const ProductFooter = styled.View`
 export const ProductPrice = styled.Text`
   margin: 14px 0;
 
-  font-size: 32px;
+  font-size: 22px;
   font-weight: bold;
 `;
 
