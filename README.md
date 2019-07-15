@@ -37,8 +37,8 @@ yarn start
 
 ## Challenge Result
 
-![Main Screen](assets/main-screen.jpeg)
+<img alt="Main Screen" src="assets/main-screen.jpeg" height="400px" />
 
-![Cart Screen](assets/cart-screen.jpeg)
+<img alt="Cart Screen" src="assets/cart-screen.jpeg" height="400px" />
 
-![Empty Cart Screen](assets/empty-cart-screen.jpeg)
+<img alt="Empty Cart Screen" src="assets/empty-cart-screen.jpeg" height="400px" />
