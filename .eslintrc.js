@@ -20,6 +20,7 @@ module.exports = {
     'prettier/prettier': 'error',
     'react/jsx-filename-extension': ['warn', { extensions: ['.jsx', '.js'] }],
     'import/prefer-default-export': 'off',
-    'no-param-reassign': ['off'],
+    'no-param-reassign': 'off',
+    'react/prop-types': 'off',
   },
 };
